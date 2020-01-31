@@ -1,0 +1,43 @@
+.main{ 
+    width: 50%;
+    border: 2px solid black ;
+    margin: auto;
+	background-color:#b6b0b0;
+}
+
+.name {
+    margin: 25px auto 10px;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    width: 40%;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+img{
+    border: 2px solid black;
+    border-style: solid;
+    text-align: center;
+    background-color: white;
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+
+p{
+    text-align: justify;
+    width: 320px;
+    margin-left: 190px;
+    margin-top: 40px;
+}
+.button{
+    margin: 30px 105px;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    width: 70%;
+    margin-bottom: 50px;
+}
